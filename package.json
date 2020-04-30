@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rafalp/misago.git"
+    "url": "git+https://github.com/gofly233/furago.git"
   },
   "author": "Rafał Pitoń",
   "license": "SEE LICENSE IN LICENSE.rst",
   "bugs": {
-    "url": "https://github.com/rafalp/misago/issues"
+    "url": "https://github.com/gofly233/furago/issues"
   },
-  "homepage": "https://github.com/rafalp/misago#readme",
+  "homepage": "https://github.com/gofly233/furago#readme",
   "dependencies": {
     "@babel/polyfill": "^7.2.5",
     "apexcharts": "^3.6.10",
